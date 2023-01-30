@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+ 
+
+
+
+}
+.first {
+    display: flex;
+    flex-direction: column;
+    height:500px;
+    width:800px;
+    border:px solid black;
+    margin: auto;
+    margin-top: 50px;
+    position: absolute;
+    left:100px;
+
+}
+.first h1{
+    font-size: 3rem;
+    margin: 40px;
+    text-align: 20px;
+    font-weight: 500;
+}
+.first-signin{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    align-items: center;
+    background-color:white ;
+
+}
+.box{
+    padding: 12px;
+    width: 95%;
+    margin:15px;
+    border: 1px soild black;
+    outline: none;
+    border-radius: 20px;
+}
+.blue{
+    padding:12px 30px;
+    width: 50%;
+    margin-top: 40px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    outline: none;
+    border-radius: 20px;
+
+}
+.mycircle1{ 
+     border-radius:60%;
+    border-color: black}
+   
+  
+
+
+.sentence{
+    margin: 40px;
+    border: px solid black;
+
+    
+
+}
+.my-img{
+    display:flex;
+    gap: 40px;
+    position: relative;
+    top: 0;
+    left: 0;
+    
+
+}
+    
+.lady{
+    
+    width:50%;;
+    padding:20px;
+    position: absolute;
+    top: 50px;
+    left: 40%;
+    
+
+}
+.lady-img{
+    margin-right: 10px;
+    max-width: 45%;
+    max-height: 75%;
+
+
+
+}
+.fa-solid{
+    position: relative;
+right:170px;
+top:50px;
+}
+.twitter{
+    border: 2px black solid;
+    border-radius: 50%;
+    width:60px;
+    height:60px;
+    padding: 5px;
+}
+
+
+.facebook{
+    border:2px black solid;
+    border-radius: 50%;
+    width:60px;
+    height:60px;
+    padding: 5px;
+}
+.google{
+    border:2px black solid;
+    border-radius: 50%;
+    width:60px;
+    height:60px;
+    padding: 5px;
+
+}
+.linkedin{
+    border:2px black solid;
+    border-radius: 50%;
+    width:60px;
+    height:60px;
+    padding: 5px;
+  
+}
